@@ -1,1 +1,2 @@
-VimCrypt~03!#AcÚjªân´¼[v@()•¹Š#–¿®à„ír0Gk÷GŸÒàð3p£–”‚„¾AWÑ%°ûÔÖ1¡…áiÅz;x
+#!/bin/bash
+cut -d ';' -f 1,6 /ect/passwd | sort
